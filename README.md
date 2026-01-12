@@ -20,6 +20,6 @@ Master Go from fundamentals to advanced systems programming with **100 hands-on 
 ## 🚀 Quick Start
 ```bash
 # Clone & run your first task
-git clone https://github.com/your-username/golang-mastery-100_tasks.git
-cd golang-mastery-100_tasks
+git clone https://github.com/your-username/golang-mastery.git
+cd golang-mastery
 go run task1/task.go
